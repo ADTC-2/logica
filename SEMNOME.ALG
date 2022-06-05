@@ -1,17 +1,20 @@
 Algoritmo "expressoesAritmeticas"
+//  
+//  
 
 
 
 Var
-
+ a,b,soma inteiro
 
 Inicio
-escreva("Expressoês aritméticos")
+ escreval("digite um numero")
+ leia (a)
+ escreva("digite outro numero")
+ leia(b)
+ soma<-a+b
+ escreval(soma)
 
-
-escreva(13 % 8)
-escreva(5 % 2)
-escreva(18 % 4)
  
 
 Fimalgoritmo
