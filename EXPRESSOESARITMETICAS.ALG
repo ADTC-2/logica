@@ -1,0 +1,11 @@
+Algoritmo "expressoesAritmeticas"
+//  
+//  
+
+
+
+Var
+
+ 
+
+Fimalgoritmo
