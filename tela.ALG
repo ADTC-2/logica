@@ -26,6 +26,7 @@ Var
  escreval("Preço :", preco)
  escreval("-------------------------------")
  escreval("Responsável :",responsavel)
+ escreval("###############################")
 
 
  
