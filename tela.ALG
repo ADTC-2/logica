@@ -18,7 +18,7 @@ Var
  preco      <-823,56
  responsavel<-"Alves Costa"
  
- escreva("Cadastro de produtos)
+ escreva("Cadastro de produtos")
  escreval("")
  escreval("Nome do Amazem :",armazem)
  escreval("Descrição do produto :",produto)
